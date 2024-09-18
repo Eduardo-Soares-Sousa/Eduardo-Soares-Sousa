@@ -5,8 +5,10 @@
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004901415597&locale=pt_BR)
 [![Blog](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-soares-sousa/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Soares-Sousa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Soares-Sousa&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<div>
+    <img height="180" alt="html5" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Soares-Sousa&show_icons=true&theme=tokyonight"/>
+    <img height="180" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Soares-Sousa&layout=compact&theme=tokyonight"/>
+</div>
 
 ### Tecnologias que utilizo atualmente 👨‍💻:
 
