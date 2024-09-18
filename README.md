@@ -24,7 +24,7 @@
 
 ### Frases que carrego:
 
-### "A inteligência consiste não só no conhecimento, mas também de aplicar os conhecimentos na prática"
+### "A inteligência consiste não só no conhecimento, mas também de aplicar os conhecimentos na prática."
 Aristóteles 
 
 <br/>
